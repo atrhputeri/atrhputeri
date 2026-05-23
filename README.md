@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Atirah Puteri  
 
-<!--
-**atrhputeri/atrhputeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Data Science & Analytics @ UKM  
+🧬 Interested in Bioinformatics, Data Science & Machine Learning  
+💻 Exploring data-driven projects and web development  
 
-Here are some ideas to get you started:
+"Learning step by step, improving every day."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+- 📊 Data analysis and machine learning projects  
+- 🧬 Bioinformatics and genome-related analysis  
+- 🌐 Web development using Laravel and Python  
+- 📚 Improving my skills through hands-on learning and projects  
+
+---
+
+## 🛠 Tech Stack
+### 📊 Data Science
+- Python  
+- Pandas  
+- NumPy  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- Laravel  
+
+### 🧰 Tools
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📈 Goals
+- Build more real-world data science projects  
+- Strengthen machine learning skills  
+- Explore advanced bioinformatics analysis  
+- Continuously learn and grow as a data scientist  
+
+---
