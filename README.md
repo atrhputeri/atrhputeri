@@ -4,14 +4,12 @@
 🧬 Interested in Bioinformatics, Data Science & Machine Learning  
 💻 Exploring data-driven projects and web development  
 
-"Learning step by step, improving every day."
-
 ---
 
 ## 🚀 Currently Working On
 - 📊 Data analysis and machine learning projects  
 - 🧬 Bioinformatics and genome-related analysis  
-- 🌐 Web development using Laravel and Python  
+- 🌐 Web development
 - 📚 Improving my skills through hands-on learning and projects  
 
 ---
