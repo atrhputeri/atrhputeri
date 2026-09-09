@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atirah Puteri
 
-🎓 MSc Student in Data Science & Analytics @ UKM
-🧬 Bioinformatics Graduate
+🎓 MSc Student in Data Science & Analytics @ UKM  
+🧬 Bioinformatics Graduate  
 💻 Interested in Data Science, Machine Learning & Bioinformatics
 
 ---
