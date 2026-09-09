@@ -14,6 +14,16 @@
 * 📚 Building my skills through hands-on projects
 
 ---
+## 🗃️ Projects completed
+
+**Data Management course**.
+
+| Project | Repository |
+|---|---|
+| Assignment 1 — Iris Species Classification | [View Repo](https://github.com/atrhputeri/DM-Assignment1_Iris_Classification) |
+| Assignment 2 — Cassandra & Spark | [View Repo](https://github.com/atrhputeri/DM-Assignment2_Cassandra_Spark) |
+| Final Project | [View Repo](https://github.com/atrhputeri/DM-Final_Report) |
+---
 
 ## 🧠 Skills & Tools
 
